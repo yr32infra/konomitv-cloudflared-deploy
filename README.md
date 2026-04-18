@@ -1,2 +1,2 @@
-# tyan0proxy-deploy
-Deployed on: mitou (compose-cd)
+# konomitv cloudflared deploy
+Deployed on: arch (compose-cd)
